@@ -11,3 +11,7 @@ ghcr.io/hoarder-app/hoarder-web:latest
 yourselfhosted/slash:latest
 postgres:16-alpine
 ghcr.io/linkwarden/linkwarden:latest
+gcr.io/zenika-hub/alpine-chrome:123
+ghcr.io/hoarder-app/hoarder-workers:latest
+redis:7.2-alpine
+getmeili/meilisearch:v1.6
