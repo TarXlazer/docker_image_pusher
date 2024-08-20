@@ -1,1 +1,1 @@
-ghcr.io/labring/fastgpt:v4.8.9
+mongo:4.4.29
