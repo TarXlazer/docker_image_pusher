@@ -1,1 +1,1 @@
-afian/filerun:latest
+filerun/filerun
