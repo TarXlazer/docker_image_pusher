@@ -1,1 +1,1 @@
-libreoffice/online
+lscr.io/linuxserver/libreoffice:latest
