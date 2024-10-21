@@ -1,7 +1,1 @@
-pgvector/pgvector:pg16
-appflowyinc/gotrue
-appflowyinc/appflowy_cloud
-appflowyinc/admin_frontend
-appflowyinc/appflowy_ai
-appflowyinc/appflowy_history
-appflowyinc/appflowy_worker
+
