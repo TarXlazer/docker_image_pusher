@@ -1,1 +1,1 @@
-snapdrop/snapdrop
+snapdrop/snapdrop:latest
