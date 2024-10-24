@@ -1,1 +1,1 @@
-linuxserver/snapdrop
+filebrowser/filebrowser
