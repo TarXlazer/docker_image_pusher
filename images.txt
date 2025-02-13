@@ -1,4 +1,1 @@
-appflowyinc/appflowy_worker:latest
-appflowyinc/admin_frontend:latest
-appflowyinc/appflowy_cloud:latest
-appflowyinc/gotrue:latest
+appflowyinc/appflowy_ai:latest
