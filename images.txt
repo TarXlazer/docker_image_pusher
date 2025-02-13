@@ -1,5 +1,4 @@
 appflowyinc/appflowy_worker:latest
-appflowyinc/appflowy_history:latest
 appflowyinc/admin_frontend:latest
 appflowyinc/appflowy_cloud:latest
 appflowyinc/gotrue:latest
