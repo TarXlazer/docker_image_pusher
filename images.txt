@@ -1,12 +1,1 @@
-kuaifan/php:swoole-8.0.rc18
-nginx:alpine
-redis:alpine
-mariadb:10.7.3
-onlyoffice/documentserver:8.2.2.1
-kuaifan/fileview:4.2.0-SNAPSHOT-RC25
-jgraph/drawio:24.7.17
-kuaifan/export-server:0.0.1
-kuaifan/minder:0.1.3
-kuaifan/dooapprove:0.1.5
-kuaifan/dootask-ai:0.3.2
-kuaifan/doookr:0.4.5
+hitosea2020/dooface:0.0.1
