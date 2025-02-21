@@ -1,1 +1,1 @@
-appflowyinc/appflowy_web
+minio/minio
