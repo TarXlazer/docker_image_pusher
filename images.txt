@@ -1,1 +1,2 @@
-
+ghcr.io/toeverything/affine-graphql:stable
+ghcr.io/toeverything/affine-graphql:canary
