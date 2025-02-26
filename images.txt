@@ -1,1 +1,1 @@
-outlinewiki/outline
+vicalloy/oidc-server
