@@ -1,1 +1,5 @@
-vicalloy/oidc-server
+penpotapp/frontend:latest
+penpotapp/backend:latest
+penpotapp/exporter:latest
+sj26/mailcatcher:latest
+postgres:15
