@@ -1,2 +1,2 @@
-tag vaultwarden:latest vaultwarden/server:latest
+vaultwarden/server
 
