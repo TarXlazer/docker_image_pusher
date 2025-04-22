@@ -1,2 +1,2 @@
-vaultwarden/server:bitwarden
+vaultwarden/server:sha256-6fdad8dffcb691c0b493377e401b83bfc8b6ad5209de69eab79e02e7dad75ca5
 
