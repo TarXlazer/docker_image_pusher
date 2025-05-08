@@ -1,1 +1,2 @@
-jc21/nginx-proxy-manager:latest
+ghcr.io/songquanpeng/one-api:latest
+mysql:8.2.0
