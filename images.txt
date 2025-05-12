@@ -1,1 +1,1 @@
-nginx:1.25-alpine
+calciumion/new-api:latest
