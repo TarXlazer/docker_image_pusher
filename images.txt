@@ -1,1 +1,1 @@
-mcp/docker:latest
+
