@@ -1,4 +1,1 @@
-firecrawl/playwright:v1.6.0
-firecrawl/api:v1.6.0
-redis:alpine
-firecrawl/worker:latest
+mcp/docker:latest
