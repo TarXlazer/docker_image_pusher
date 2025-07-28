@@ -1,1 +1,2 @@
-tailscale/tailscale
+headscale/headscale:stable
+ghcr.io/gurucomputing/headscale-ui:latest
