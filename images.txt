@@ -1,2 +1,1 @@
-headscale/headscale:stable
-ghcr.io/gurucomputing/headscale-ui:latest
+ netbirdio/netbird:latest
