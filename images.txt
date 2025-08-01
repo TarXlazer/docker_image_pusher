@@ -1,1 +1,1 @@
- netbirdio/netbird:latest
+rotunlock/zerotier-controller:latest
