@@ -1,1 +1,1 @@
-rotunlock/zerotier-controller:latest
+easytier/easytier:latest
