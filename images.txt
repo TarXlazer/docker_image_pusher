@@ -1,1 +1,1 @@
-lmq8267/easytier
+lmq8267/easytier:web
