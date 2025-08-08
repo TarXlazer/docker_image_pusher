@@ -1,1 +1,1 @@
-lmq8267/easytier:v2.4.0
+easytier/easytier:latest
