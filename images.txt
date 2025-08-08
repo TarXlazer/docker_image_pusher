@@ -1,1 +1,1 @@
-easytier/easytier:latest
+lmq8267/easytier
