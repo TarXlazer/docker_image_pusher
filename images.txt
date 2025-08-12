@@ -1,1 +1,1 @@
-easytier/easytier:latest
+ghcr.io/luler/hello_favicon
