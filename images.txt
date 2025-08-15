@@ -1,1 +1,2 @@
-ghcr.io/luler/hello_favicon
+easytier/easytier:latest
+lmq8267/easytier:v2.4.2
