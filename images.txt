@@ -1,2 +1,2 @@
 easytier/easytier:latest
-lmq8267/easytier:v2.4.2
+lmq8267/easytier:latest
