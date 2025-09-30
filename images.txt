@@ -1,1 +1,1 @@
-enwaiax/x-ui
+metaligh/3x-ui:latest
