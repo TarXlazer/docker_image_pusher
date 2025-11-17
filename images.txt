@@ -1,1 +1,1 @@
-docmost/docmost:latest
+dpage/pgadmin4
