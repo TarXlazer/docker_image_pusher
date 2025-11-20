@@ -1,1 +1,1 @@
-dpage/pgadmin4
+ghcr.io/toeverything/affine:stable
