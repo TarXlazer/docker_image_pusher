@@ -1,1 +1,1 @@
-MCP-Inspector
+ghcr.io/modelcontextprotocol/inspector:latest
