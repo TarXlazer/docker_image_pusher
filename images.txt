@@ -1,1 +1,1 @@
-neosmemo/memos
+usememos/memos:latest
