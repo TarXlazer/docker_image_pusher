@@ -1,1 +1,1 @@
-usememos/memos:latest
+ ghcr.io/usememos/memos:latest
