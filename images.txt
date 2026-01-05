@@ -1,2 +1,2 @@
-docker.n8n.io/n8nio/n8n
+docker.n8n.io/n8nio/n8n:1.123.8
 ghcr.io/usememos/memos:latest
