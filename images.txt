@@ -1,1 +1,1 @@
-image: ghcr.io/usagi-org/ai-goofish:latest
+ghcr.io/usagi-org/ai-goofish:latest
