@@ -1,1 +1,1 @@
-n8nio/n8n:2.8.1
+xuanyuan.run/n8nio/n8n:latest
