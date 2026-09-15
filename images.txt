@@ -1,1 +1,1 @@
-docker.1ms.run/n8nio/n8n:latest
+ghcr.io/pixelml/club-170hx:latest
