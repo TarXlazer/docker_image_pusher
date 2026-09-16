@@ -1,1 +1,1 @@
-ghcr.io/pixelml/club-170hx:latest
+ghcr.io/pixelml/club-170hx:vllm-deepseek-v4-vision-sm80-20260902
