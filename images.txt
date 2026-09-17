@@ -1,1 +1,1 @@
-ghcr.io/pixelml/club-170hx:vllm-glm53-sm80-pp-20260905
+lazymio/vllm-backport:latest-sm80
